@@ -157,7 +157,7 @@ class Bar
 class BlockBreaker
 {
     private static HEIGHT:number = 465;
-    private static WIDTH:number = 465;
+    private static WIDTH:number = 1280;
     private _canvas:HTMLCanvasElement;
     private _ctx:CanvasRenderingContext2D;
     private _data:ImageData;

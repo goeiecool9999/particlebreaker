@@ -278,7 +278,7 @@ var BlockBreaker = /** @class */ (function () {
         this.init();
     }
     BlockBreaker.HEIGHT = 465;
-    BlockBreaker.WIDTH = 465;
+    BlockBreaker.WIDTH = 1280;
     return BlockBreaker;
 }());
 window.addEventListener("load", function (e) {
